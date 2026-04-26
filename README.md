@@ -1,6 +1,6 @@
 # RetrospectorOS
 
-A customized Android 16 ROM for the Sidephone SP-01 Founders Edition, based on LineageOS 23.2 GSI. Built and maintained by Tyler.
+A customized Android 16 ROM for the Sidephone SP-01 Founders Edition, based on LineageOS 23.2 GSI. Built and maintained by RetroSpector.
 
 ### What's included
 - Custom RetrospectorOS boot animation
