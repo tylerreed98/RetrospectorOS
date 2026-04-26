@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "date": "2026-04-26",
+  "variants": [
+    {
+      "name": "GAPPS",
+      "url": "https://github.com/tylerreed98/RetrospectorOS/releases/download/v1.0.0/RetrospectorOS-v1.0.0-GAPPS.img.xz",
+      "sha256": "19f713320ec7c85617e5bb58f74029eea833196858e5925e6fa6aa7956819f83",
+      "size": 1137221508
+    },
+    {
+      "name": "VANILLA",
+      "url": "https://github.com/tylerreed98/RetrospectorOS/releases/download/v1.0.0/RetrospectorOS-v1.0.0-VANILLA.img.xz",
+      "sha256": "274c0ede1ae6423db92d87040f9de07530cf2748334ec98020f0c3162b01f33d",
+      "size": 868151748
+    }
+  ]
+}
