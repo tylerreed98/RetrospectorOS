@@ -114,7 +114,7 @@ If you ever end up in a bootloop or want to go back to the factory OS:
 
 ---
 
-## Phase 3: Root with Magisk (Skip if you want an unrooted system in the non Gaaps version, for Gapps you will need this to get Gaaps functional)
+## Phase 3: Root with Magisk (Skip if you want an unrooted system in the non Gapps version, for Gapps you will need this to get Gapps functional)
 
 1. Complete the initial stock Android setup wizard and connect to Wi-Fi.
 2. Enable **Developer Options**: go to **Settings → About phone** and tap **Build Number** 7 times.
