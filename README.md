@@ -87,7 +87,7 @@ python mtk_gui.py
 2. Press and hold **Volume Up + Volume Down** on the phone, then plug the USB cable into your PC.
 3. Release the buttons once MTK Client detects the device and loads the partition list.
 4. Go to the **Read partitions** tab.
-5. Select **all** partitions and click **Read**.
+5. Select all partitions except for userdata and click **Read**. `userdata` contains personal files on the device that you should already have backed up.
 6. When the file browser opens, navigate to **Drive B**, create a folder called `Sidephone_Backup`, and select it.
 7. Wait for the backup to complete — this takes several minutes.
 
@@ -249,7 +249,7 @@ The toggle should appear in **Settings → Network & Internet → SIMs** once yo
 Brief signal drops when the screen turns off are normal MTK fast dormancy behavior. RetrospectorOS includes tuned settings to minimize this. If drops are persistent, toggle airplane mode off and on to reconnect.
 
 ### Gapps Support
-Must find your own fix for device cirtification via Magisk Modules. Google apps will not allow you to use them untill device cirtification is fixed.
+Must find your own fix for device certification via Magisk Modules. Google apps will not allow you to use them untill device cirtification is fixed.
 
 ### TWRP Recovery
 A TWRP custom recovery for the Sidephone is currently in development.
@@ -265,6 +265,7 @@ A TWRP custom recovery for the Sidephone is currently in development.
 | VoLTE toggle may not appear immediately | Toggle airplane mode off/on | Under investigation |
 | Brief signal drop when screen turns off | Normal MTK behavior | Improvement planned for v2 |
 | Small lock screen PIN pad | Known issue | Fix planned for v2 |
+| Device integrity warning on bootup requires second power button press | Known issue | Fix under investigation |
 
 ---
 
